@@ -1,0 +1,162 @@
+Thu Dec  5 10:08:56 CST 2019
+TACC: Starting up job 2533605
+TACC: Starting parallel tasks...
+Collatz v1.2
+upper bound: 1699416735
+CPU percentage: 0
+processes running: 4
+compute time: 0.6783 s
+longest sequence: 853 elements
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2533605
+TACC: Starting parallel tasks...
+Collatz v1.2
+upper bound: 1699416735
+CPU percentage: 2
+processes running: 4
+compute time: 0.6212 s
+longest sequence: 945 elements
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2533605
+TACC: Starting parallel tasks...
+Collatz v1.2
+upper bound: 1699416735
+CPU percentage: 4
+processes running: 4
+compute time: 0.6732 s
+longest sequence: 946 elements
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2533605
+TACC: Starting parallel tasks...
+Collatz v1.2
+upper bound: 1699416735
+CPU percentage: 6
+processes running: 4
+compute time: 0.5921 s
+longest sequence: 946 elements
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2533605
+TACC: Starting parallel tasks...
+Collatz v1.2
+upper bound: 1699416735
+CPU percentage: 8
+processes running: 4
+compute time: 0.6940 s
+longest sequence: 958 elements
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2533605
+TACC: Starting parallel tasks...
+Collatz v1.2
+upper bound: 1699416735
+CPU percentage: 10
+processes running: 4
+compute time: 0.8120 s
+longest sequence: 965 elements
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2533605
+TACC: Starting parallel tasks...
+Collatz v1.2
+upper bound: 1699416735
+CPU percentage: 12
+processes running: 4
+compute time: 1.0598 s
+longest sequence: 958 elements
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2533605
+TACC: Starting parallel tasks...
+Collatz v1.2
+upper bound: 1699416735
+CPU percentage: 14
+processes running: 4
+compute time: 1.3076 s
+longest sequence: 959 elements
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2533605
+TACC: Starting parallel tasks...
+Collatz v1.2
+upper bound: 1699416735
+CPU percentage: 16
+processes running: 4
+compute time: 1.2848 s
+longest sequence: 988 elements
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2533605
+TACC: Starting parallel tasks...
+Collatz v1.2
+upper bound: 1699416735
+CPU percentage: 18
+processes running: 4
+compute time: 1.4751 s
+longest sequence: 988 elements
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2533605
+TACC: Starting parallel tasks...
+Collatz v1.2
+upper bound: 1699416735
+CPU percentage: 20
+processes running: 4
+compute time: 1.5922 s
+longest sequence: 988 elements
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2533605
+TACC: Starting parallel tasks...
+Collatz v1.2
+upper bound: 1699416735
+CPU percentage: 30
+processes running: 4
+compute time: 2.3771 s
+longest sequence: 988 elements
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2533605
+TACC: Starting parallel tasks...
+Collatz v1.2
+upper bound: 1699416735
+CPU percentage: 40
+processes running: 4
+compute time: 3.1735 s
+longest sequence: 1001 elements
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2533605
+TACC: Starting parallel tasks...
+Collatz v1.2
+upper bound: 1699416735
+CPU percentage: 60
+processes running: 4
+compute time: 4.8198 s
+longest sequence: 1001 elements
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2533605
+TACC: Starting parallel tasks...
+Collatz v1.2
+upper bound: 1699416735
+CPU percentage: 80
+processes running: 4
+compute time: 6.3688 s
+longest sequence: 1001 elements
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2533605
+TACC: Starting parallel tasks...
+Collatz v1.2
+upper bound: 1699416735
+CPU percentage: 100
+processes running: 4
+compute time: 7.9525 s
+longest sequence: 1009 elements
+ 
+TACC: Shutdown complete. Exiting.
+Thu Dec  5 10:11:36 CST 2019

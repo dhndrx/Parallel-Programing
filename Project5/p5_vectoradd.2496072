@@ -1,0 +1,10 @@
+Wed Nov 13 10:33:17 CST 2019
+Vector addition v1.0
+vector size: 20000000
+compute time: 0.0015 s
+verification passed
+Vector addition v1.0
+vector size: 200000000
+compute time: 0.0140 s
+verification passed
+Wed Nov 13 10:33:25 CST 2019
